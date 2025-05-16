@@ -27,26 +27,6 @@ A full-stack React + Node.js application that fetches the user's public IP, geol
 
 ---
 
-## 📁 Folder Structure
-
-```
-ip-locator/
-├── public/
-├── src/
-│   ├── components/       # UI components like Map, Login, Search
-│   ├── styles/           # CSS modules
-│   ├── services/         # API calls (ipapi, Gmail)
-│   ├── App.js
-│   ├── index.js
-│   └── setupTests.js
-├── .env.example          # Sample env file (safe to commit)
-├── .gitignore
-├── package.json
-└── README.md
-```
-
----
-
 ## 🚀 Getting Started
 
 ### 1. Clone the Repo
@@ -94,13 +74,6 @@ See `.env.example` for a template. You’ll need:
 
 ---
 
-## ☁️ Deployment Tips
-
-- Deploy frontend on [Vercel](https://vercel.com)
-- Deploy backend on [Render](https://render.com) or [Railway](https://railway.app)
-- Add environment variables via the platform’s dashboard securely
-
----
 
 ## 🤝 Contributing
 
